@@ -1,0 +1,26 @@
+.Contanor-Form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 15px;
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+	.Contanor-Form {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: 15px;
+	}
+	.label-width{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.input-width{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}
+

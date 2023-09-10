@@ -1,0 +1,10 @@
+@media only screen and (min-width: 360px) and (max-width: 575px) {
+	.card {
+		width: 10rem;
+
+		margin: auto;
+		 /* margin-bottom: 7px;  */
+		/* margin-top: 70px;
+		margin-left: 55px; */
+	}
+}
